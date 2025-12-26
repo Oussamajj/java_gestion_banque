@@ -1,0 +1,11 @@
+com/banque/model/Client.class
+com/banque/service/BanqueService.class
+com/banque/model/Compte.class
+com/banque/config/DatabaseConnection.class
+com/banque/dao/ClientDAO.class
+com/banque/model/Transaction.class
+com/banque/dao/TransactionDAO.class
+com/banque/dao/CompteDAO.class
+com/banque/config/DatabaseInitializer.class
+com/banque/util/PasswordUtil.class
+com/banque/ui/GestionBanqueApp.class

@@ -1,0 +1,11 @@
+/home/oussama/eclipse-workspace/s/gestion-banque-javafx/src/main/java/com/banque/model/Compte.java
+/home/oussama/eclipse-workspace/s/gestion-banque-javafx/src/main/java/com/banque/config/DatabaseConnection.java
+/home/oussama/eclipse-workspace/s/gestion-banque-javafx/src/main/java/com/banque/ui/GestionBanqueApp.java
+/home/oussama/eclipse-workspace/s/gestion-banque-javafx/src/main/java/com/banque/service/BanqueService.java
+/home/oussama/eclipse-workspace/s/gestion-banque-javafx/src/main/java/com/banque/dao/ClientDAO.java
+/home/oussama/eclipse-workspace/s/gestion-banque-javafx/src/main/java/com/banque/model/Client.java
+/home/oussama/eclipse-workspace/s/gestion-banque-javafx/src/main/java/com/banque/config/DatabaseInitializer.java
+/home/oussama/eclipse-workspace/s/gestion-banque-javafx/src/main/java/com/banque/model/Transaction.java
+/home/oussama/eclipse-workspace/s/gestion-banque-javafx/src/main/java/com/banque/dao/TransactionDAO.java
+/home/oussama/eclipse-workspace/s/gestion-banque-javafx/src/main/java/com/banque/dao/CompteDAO.java
+/home/oussama/eclipse-workspace/s/gestion-banque-javafx/src/main/java/com/banque/util/PasswordUtil.java
